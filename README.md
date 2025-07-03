@@ -22,5 +22,5 @@ Foi utilizado o modelo **ARIMA(13,0,0)** para ajuste e previsão da série, apó
 
 ## Autor
 
-Este projeto foi desenvolvido como parte das atividades avaliativas da disciplina **Análise de Séries Temporais** – Curso de Engenharia de Computação\Energias – Período 2025.1.
+Este projeto foi desenvolvido como parte das atividades avaliativas da disciplina **Análise de Séries Temporais** – Curso de Engenharia de Computação/Energias – Período 2025.1.
 
